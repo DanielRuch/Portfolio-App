@@ -1,7 +1,7 @@
 import React, { Component , useState } from 'react';
 import NavBarMain from './Resources/Components/navBarMain'
 //import Main from './Resources/Components/Main'
-import Main from './Pages/MainNew'
+import Main from './Pages/Main'
 
 
 class App extends Component {
@@ -30,5 +30,6 @@ class App extends Component {
         );
     }
 }
+
 
 export default App;

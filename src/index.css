@@ -12,14 +12,6 @@ code {
     monospace;
 }
 
-.nav-item {
-  color : white;
-}
-
-.nav-link {
-  color : white;
-}
-
 .icon-linkedin {
   background-image: url("Resources/Images/linkedinicon.png");
   background-position: center center;
